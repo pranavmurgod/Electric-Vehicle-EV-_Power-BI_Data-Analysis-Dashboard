@@ -1,5 +1,7 @@
 # Electric-Vehicle-EV-_Power-BI_Data-Analysis-Dashboard
 
+![Screenshot (182)](https://github.com/user-attachments/assets/adbff786-0d07-4b6d-8513-7c99bbed7cd7)
+
 ## Overview
 This Power BI project focuses on analyzing electric vehicle data, sourced from Kaggle. The project demonstrates how to create an interactive and insightful dashboard that provides key insights into the EV industry.
 
